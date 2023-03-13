@@ -1,8 +1,8 @@
 <h3 align="center"> Hi there 👋, Im Ellexandrei Esponilla <h3> 
  <br>
- <p align="center"> Currently a Senior Highschool student 
-Beginner in web development 
-Currently learning python
+ <pre>                                                   Currently a Senior Highschool student 
+                                                             Beginner in web development 
+                                                              Currently learning python
  <pre/>
 
 <!--
