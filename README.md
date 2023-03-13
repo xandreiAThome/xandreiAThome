@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, Im Ellexandrei Esponilla <h2> 
  <br>
- <p align="center">Currently a Senior Highschool student</p> 
+ <samp align="center">Currently a Senior Highschool student</samp> 
 
 
 <!--
