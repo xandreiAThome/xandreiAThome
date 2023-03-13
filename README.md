@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋, Im Ellexandrei Esponilla <h3> 
+<h2 align="center"> Hi there 👋, Im Ellexandrei Esponilla <h2> 
  <br>
  <p align="center">Currently a Senior Highschool student</p> 
  <p align="center">Beginner in web development</p> 
