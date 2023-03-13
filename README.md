@@ -1,9 +1,9 @@
 <h3 align="center"> Hi there 👋, Im Ellexandrei Esponilla <h3> 
  <br>
- <pre>                                                   Currently a Senior Highschool student 
-                                                             Beginner in web development 
-                                                              Currently learning python
- <pre/>
+ <p align="center">Currently a Senior Highschool student</p> 
+ <p align="center">Beginner in web development</p> 
+ <p align="center">Currently learning python</p>
+
 
 <!--
 **xandreiAThome/xandreiAThome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
