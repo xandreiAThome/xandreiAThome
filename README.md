@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there 👋, Im Ellexandrei Esponilla </h2> 
  <h3 align="center"><samp>Currently a third year CS student @ De La Salle University</samp> </h3>
  <br>
- 
-## ![Current Tech Stack](https://img.shields.io/badge/Current%20Tech%20Stack-Blue?style=for-the-badge&color=007BFF)
+
+<h2 align="center"> <img src="https://img.shields.io/badge/Current%20Tech%20Stack-Blue?style=for-the-badge&color=007BFF"/></h2>
 <div>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"></img>
@@ -24,9 +24,14 @@
 
 <br>
 
-## ![Current Projects](https://img.shields.io/badge/Current%20Projects-Blue?style=for-the-badge&color=007BFF)
+## <h2> <img src="https://img.shields.io/badge/Current%20Projects-Blue?style=for-the-badge&color=007BFF"/> </h2>
 - <img align="center" src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" width="100">
 - Homelab rabbit hole w/ <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" width="100">
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandreiAThome&layout=compact&theme=dark)
+
 <!--
 **xandreiAThome/xandreiAThome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
