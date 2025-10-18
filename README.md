@@ -1,4 +1,5 @@
 <h2 align="center"> Hi there 👋, Im Ellexandrei Esponilla </h2> 
+ <h3 align="center"><samp>Current Domain Lead for Frontend @ La Salle Computer Society</samp> </h3>
  <h3 align="center"><samp>Currently a third year CS student @ De La Salle University</samp> </h3>
  <br>
 
