@@ -29,7 +29,6 @@
 <br>
 
 ## <h2> <img src="https://img.shields.io/badge/Current%20Projects-Blue?style=for-the-badge&color=007BFF"/> </h2>
-- <img align="center" src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" width="100">
 - Homelab rabbit hole w/ <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" width="100">
 
 <br>
