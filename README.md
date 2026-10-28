@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, Im Ellexandrei Esponilla </h2> 
  <!-- <h3 align="center"><samp>Current Domain Lead for Frontend @ La Salle Computer Society</samp> </h3> -->
- <h3 align="center"><samp>Third year CS student @ De La Salle University</samp> </h3>
+ <h3 align="center"><samp>4th year CS student @ De La Salle University</samp> </h3>
  <br>
 
 <h2 align="center"> <img src="https://img.shields.io/badge/Current%20Tech%20Stack-Blue?style=for-the-badge&color=007BFF"/></h2>
